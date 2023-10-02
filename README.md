@@ -9,19 +9,19 @@ To run this project locally, follow these steps:
 1. Clone this GitHub repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/dashboard-frontend.git
+   git clone https://github.com/hamza-zaman001/dashboard-frontend.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd dashboard-frontend
+   cd dashboard1
    ```
 
 3. Install the project dependencies using your preferred package manager (e.g., npm or yarn):
 
    ```bash
-   npm install
+   npm install --legacy-peer-deps
    # or
    yarn install
    ```
@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 4. Once the dependencies are installed, you can start the development server:
 
    ```bash
-   npm run dev
+   npm start
    # or
    yarn dev
    ```
