@@ -47,7 +47,7 @@ Shoppy is built using the following technology stack:
 
 ## Design Inspiration
 
-The design of Shoppy draws inspiration from various sources on the internet. This inspiration served as a foundation to create an aesthetic and user-friendly interface. Our goal is to provide an enjoyable shopping experience for users.
+The design of Shoppy draws inspiration from various sources on the internet. This inspiration served as a foundation to create an aesthetic and user-friendly interface. The goal is to provide an enjoyable shopping experience for users.
 
 ## Data Integration
 
@@ -73,4 +73,4 @@ The dashboard contains the following pages:
 
 Feel free to explore and interact with these pages to get a better understanding of the Shoppy website's capabilities and features.
 
-Thank you for checking out our project! If you have any questions or feedback, please don't hesitate to reach out. We hope you enjoy exploring the Shoppy dashboard.
+Thank you for checking out My project! If you have any questions or feedback, please don't hesitate to reach out. We hope you enjoy exploring the Shoppy dashboard.
